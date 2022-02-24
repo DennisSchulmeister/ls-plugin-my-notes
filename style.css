@@ -1,0 +1,25 @@
+.__lspmn__editor {
+    flex: 1;
+    overflow: auto;
+}
+
+.__lspmn__print {
+    font-size: 80%;
+    margin-top: 1rem;
+}
+
+.__lspmn__print h2 {
+    font-size: 120%;
+}
+
+.__lspmn__print p {
+    margin: 0;
+}
+
+.__lspmn__print .ql-font-serif {
+    font-family: serif;
+}
+
+.__lspmn__print .ql-font-monospace {
+    font-family: monospace;
+}
