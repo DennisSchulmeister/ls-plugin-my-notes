@@ -3,6 +3,14 @@
     overflow: auto;
 }
 
+.__lspmn__editor.ql-container.ql-snow {
+    border: none !important;
+}
+
+.ql-toolbar.ql-snow {
+    background: white;
+}
+
 .__lspmn__print {
     font-size: 80%;
     margin-top: 1rem;

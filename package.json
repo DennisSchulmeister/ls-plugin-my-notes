@@ -1,6 +1,6 @@
 {
   "name": "@dschulmeis/ls-plugin-my-notes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lecture-slides.js plugin for user notes",
   "main": "index.js",
   "repository": "git@github.com:DennisSchulmeister/ls-plugin-my-notes.git",
